@@ -12,3 +12,4 @@ app.post('/', (req, res)=>{
 
 app.listen(port);
 console.log("hello everyone")
+console.log("server is running very well")
